@@ -1,4 +1,71 @@
 {
-  "notes": {},
-  "fleeting_notes": []
+  "notes": {
+    "1782211940417": {
+      "id": "1782211940417",
+      "title": "Streaming first and commercial appeal has degraded the look of movies",
+      "tags": [
+        "film",
+        "cinematography"
+      ],
+      "links": [],
+      "created_at": 1782211940,
+      "updated_at": 1782215986
+    },
+    "1782216003331": {
+      "id": "1782216003331",
+      "title": "_film",
+      "tags": [],
+      "links": [
+        "1782211940417",
+        "1782216164153",
+        "1782350501005"
+      ],
+      "created_at": 1782216003,
+      "updated_at": 1782350917
+    },
+    "1782216164153": {
+      "id": "1782216164153",
+      "title": "Race swapping as a result of left wing and risk-averse policies",
+      "tags": [
+        "film"
+      ],
+      "links": [],
+      "created_at": 1782216164,
+      "updated_at": 1782220235
+    },
+    "1782350501005": {
+      "id": "1782350501005",
+      "title": "There are only two types of scenes in film",
+      "tags": [
+        "film",
+        "writing",
+        "scenes"
+      ],
+      "links": [
+        "1782351028509"
+      ],
+      "created_at": 1782350501,
+      "updated_at": 1782351409
+    },
+    "1782351028509": {
+      "id": "1782351028509",
+      "title": "Scenes should only either progress character or progress plot",
+      "tags": [],
+      "links": [],
+      "created_at": 1782351028,
+      "updated_at": 1782351580
+    }
+  },
+  "fleeting_notes": [
+    {
+      "id": "1782225545423",
+      "text": "Using AI to cut cost isn't cost cutting, it's quality cutting. Human work should be seen as a cost of doing business, not a non-essential expense",
+      "created_at": 1782225545
+    },
+    {
+      "id": "1782349904289",
+      "text": "A scene moves from A to B. There for the ending of the scene must be the revelation and the \"point\" of the scene.",
+      "created_at": 1782349904
+    }
+  ]
 }
